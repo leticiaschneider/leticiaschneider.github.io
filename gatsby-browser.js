@@ -13,7 +13,7 @@ export const onRenderBody = ({ setHeadComponents }) => {
       <link
         key="favicon"
         rel="icon"
-        href="./src/images/flower-icon.png"
+        href="./src/images/favicon.png"
         type="image/x-icon"
       />
     ])
