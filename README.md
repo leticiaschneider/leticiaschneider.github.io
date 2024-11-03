@@ -1,6 +1,7 @@
 # 🚀 Building My Portfolio in One Day with Gatsby and Tailwind CSS
 
-Creating a portfolio in just one day? Yes, it’s possible! I recently built my personal portfolio using Gatsby and Tailwind CSS, and in this post, I'll guide you through the steps to do the same. If you have Node.js installed, you're just a few commands away from launching your own portfolio!
+I decided to build my portfolio in just one day using Gatsby and Tailwind CSS. Gatsby gave me speed and flexibility, while Tailwind made styling quick and easy, without overcomplicating things. If you’re looking to build a clean and responsive portfolio fast, here’s how I did it.
+
 
 <br>
 
@@ -39,7 +40,7 @@ Then, start the development server with:
 gatsby develop
 ```
 
-Visit `http://localhost:800`0 in your browser to see your new site live.
+Visit `http://localhost:8000` in your browser to see your new site live.
 
 <hr>
 
